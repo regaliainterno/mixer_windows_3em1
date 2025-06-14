@@ -1,4 +1,4 @@
-# Windows Áudio Suite 1.0
+# Windows Áudio Suite 3em1
 
 Desenvolvido por **jdfxop**, o **Windows Áudio Suite 1.0** é a solução definitiva para quem busca controle total, intuitivo e avançado sobre o áudio do Windows. Unificando as funções de três utilitários consagrados (controle de saída, entrada e mixer de aplicativos), este aplicativo oferece uma experiência completa, centralizada e personalizada para áudio de saída, dispositivos de entrada e gerenciamento de volumes por aplicativo.
 

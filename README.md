@@ -63,7 +63,7 @@ O Windows Áudio Suite 1.0 é um aplicativo comercial, distribuído como arquivo
 
 1. **Adquira:** Compre pelo [Link de Compra (Kirvano)](https://pay.kirvano.com/df7747c2-de13-4777-9170-0add5d0af5ff)
 2. **Baixe e Extraia:** Após a compra, baixe o arquivo .zip, extraia o conteúdo.
-3. **Execute:** Rode o arquivo `Windows Áudio Suite 1.0.exe`.
+3. **Execute:** Rode o arquivo `mixer_windows.exe`.
 4. **Pronto:** O aplicativo é portátil, sem instalação complexa.
 
 Instruções detalhadas estão incluídas no arquivo de download.
